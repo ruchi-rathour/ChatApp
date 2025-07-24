@@ -1,0 +1,12 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow-y: auto;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+
+.messages::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
