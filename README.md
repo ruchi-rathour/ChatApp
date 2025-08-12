@@ -51,3 +51,4 @@ POST /api/message → Send message
 
 For full API details, refer to the included Postman collection file (postman_collection.json).
 
+**[View Postman API Collection](https://ruchirathore.postman.co/workspace/Ruchi-Rathore's-Workspace~986a3705-1a3d-4658-8465-7471ee42af5a/collection/46715221-f78554f4-347a-430f-a136-2b17647c4df8?action=share&source=copy-link&creator=46715221)**
