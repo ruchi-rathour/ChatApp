@@ -1,0 +1,114 @@
+{
+	"info": {
+		"_postman_id": "f78554f4-347a-430f-a136-2b17647c4df8",
+		"name": "talk-Of_town",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46715221",
+		"_collection_link": "https://ruchirathore.postman.co/workspace/Ruchi-Rathore's-Workspace~986a3705-1a3d-4658-8465-7471ee42af5a/collection/46715221-f78554f4-347a-430f-a136-2b17647c4df8?action=share&source=collection_link&creator=46715221"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"item": [
+				{
+					"name": "registration",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "login",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "search",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "chats",
+			"item": [
+				{
+					"name": "Create or access one or one chat",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "fetchchats",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "create a group",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "rename the group",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "add users to group",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "remove user from group",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "message",
+			"item": [
+				{
+					"name": "sending a new msg",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "fetch all msgs",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
